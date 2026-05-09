@@ -1,4 +1,4 @@
-# Hi, I'm Nick 👋
+# Hi, I'm Alacrity 👋
 
 > Doing anything and everything, with a bit of bias for Web3.
 
