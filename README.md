@@ -16,7 +16,7 @@
 
 
 - 🧩 [**StackFlow**](https://stackfl0w.vercel.app/) — Modified ethereumJS for symbolic EVM execution. Implements recursive depth-first search to explore execution paths and build interactive control flow graphs.
-- 🍸 [**ETHBar**](https://github.com/Alacriity1/ETHBar) — macOS 14+ menu bar app for viewing live Ethereum mainnet conditions, with current block stats and recent base fee and gas usage history in a fast popover.
+- 🍸 [**ETHBar**](https://github.com/Alacriity1/ETHBar) — macOS 14+ menu bar app for viewing live Ethereum metrics, with current block stats and recent base fee and gas usage history in a fast popover.
 - 🖼️ [**Graphiti**](https://graphiti-nft.vercel.app/explorer) — Mint an NFT from an address’s unique on-chain fingerprint. Just a heads-up, I would NOT recommend minting anything outside of Sepolia.
 - 🧠 [**Agent-Skills**](https://github.com/Alacriity1/agent-skills) — Canonical repo for Codex and Claude-style agent instructions, reusable skills, templates, docs, and helpers.
 - 🍎 [**HelloBar**](https://github.com/Alacriity1/HelloBar) — Tiny macOS menu bar playground for learning SwiftUI and Xcode.
