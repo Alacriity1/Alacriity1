@@ -14,7 +14,7 @@
 
 ## My Projects
 
-
+- 📐 [**miniCAD**](https://github.com/Alacriity1/miniCAD) - Windows parametric CAD application built in C++ with Qt 6 and OpenGL, using Open CASCADE (OCCT) as its geometric kernel.
 - 🧩 [**StackFlow**](https://stackfl0w.vercel.app/) — Modified ethereumJS for symbolic EVM execution. Implements recursive depth-first search to explore execution paths and build interactive control flow graphs.
 - 🍸 [**ETHBar**](https://github.com/Alacriity1/ETHBar) — macOS 14+ menu bar app for viewing live Ethereum metrics, with current block stats and recent base fee and gas usage history in a fast popover.
 - 🖼️ [**Graphiti**](https://graphiti-nft.vercel.app/explorer) — Mint an NFT from an address’s unique on-chain fingerprint. Just a heads-up, I would NOT recommend minting anything outside of Sepolia.
