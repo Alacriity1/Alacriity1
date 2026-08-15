@@ -25,8 +25,8 @@
 ### Ethereum & EVM
 
 - 🧩 [**StackFlow**](https://stackfl0w.vercel.app/) — Modified ethereumJS for symbolic EVM execution. Implements recursive depth-first search to explore execution paths and build interactive control flow graphs.
-- 🍸 [**ETHBar**](https://github.com/Alacriity1/ETHBar) — macOS 14+ menu bar app for viewing live Ethereum metrics, with current block stats and recent base fee and gas usage history in a fast popover.
 - 🖼️ [**Graphiti**](https://graphiti-nft.vercel.app/explorer) — Mint an NFT from an address’s unique on-chain fingerprint. Just a heads-up, I would NOT recommend minting anything outside of Sepolia.
+- 🍸 [**ETHBar**](https://github.com/Alacriity1/ETHBar) — macOS 14+ menu bar app for viewing live Ethereum metrics, with current block stats and recent base fee and gas usage history in a fast popover.
 - 💥 [**DeFi Hack PoCs**](https://github.com/Alacriity1/Defi-Hack-PoCs) — Playground of real DeFi exploits recreated on mainnet forks to dig into root causes and attack vectors.
 - 🛡️ [**Damn Vulnerable DeFi**](https://github.com/Alacriity1/damn-vulnerable-defi) — Solutions and informal writeups for DeFi vulnerabilities and exploits.
 - 🚀 [**Ethernaut**](https://github.com/Alacriity1/Ethernaut) — Helper repo for Ethernaut challenges (a bit messy).
