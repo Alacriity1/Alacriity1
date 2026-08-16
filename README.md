@@ -40,7 +40,6 @@
 
 ## Connect
 
-[![Telegram](https://img.shields.io/badge/-@Alacrity1-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Alacrity1)
-[![X](https://img.shields.io/badge/-@alacriity__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Alacriity_)
+[![Telegram](https://img.shields.io/badge/-@Alacrity1-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Alacrity1) <!-- [![X](https://img.shields.io/badge/-@alacriity__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Alacriity_) -->
 [![Gmail](https://img.shields.io/badge/-alacrityeth@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alacrityeth@gmail.com)
 [![GitHub](https://img.shields.io/badge/-follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Alacriity1)
