@@ -1,6 +1,6 @@
 # Hi, I'm Alacrity 👋
 
-> Mechanical Engineer doing anything and everything.
+> Doing anything and everything.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](assets/python-badge.svg)
